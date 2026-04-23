@@ -98,4 +98,16 @@ This project combines multiple datasets:
 ## 🚀 How to Run This Project
 
 ```bash
+1. Clone the repository:
+
+```
 git clone https://github.com/Satyajeet-Banerjee/Fatal-Force-Analysis.git
+```
+
+2. Open the notebook:
+
+```
+jupyter notebook
+```
+
+3. Run all cells
